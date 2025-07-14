@@ -1,0 +1,17 @@
+.add-post-btn {
+  background: linear-gradient(135deg, #6f42c1, #5a189a);
+  color: #fff;
+  padding: 12px 24px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 50px;
+  font-weight: 600;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 8px 16px rgba(90, 24, 154, 0.2);
+}
+
+.add-post-btn:hover {
+  background: linear-gradient(135deg, #5a189a, #3c096c);
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px rgba(90, 24, 154, 0.3);
+}
